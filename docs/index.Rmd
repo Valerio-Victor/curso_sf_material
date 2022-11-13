@@ -9,5 +9,15 @@ output:
 
 # MATERIAL DE APOIO
 
-# CONTATO
+## Materiais
+
+- **Slide (Aspectos Regulatórios)**: https://valerio-victor.github.io/curso_sf/#1
+- **Demais Materiais**: https://1drv.ms/u/s!At0yTgXpzJkLg65dkhfFFxJUg1qPVA?e=YE5fWc
+
+## Contato
+
+- **E-mail**: victor.dmv@unifei.edu.br
+- **Telefone**: (35) 3629-1151
+- **Whatsapp (Grupo)**: https://chat.whatsapp.com/2S8NLFmSN9oFoylNO2Cvy6
+- **Agendamento de Reunião**: https://calendly.com/profvictorvalerio/coordenacao-adm-clone
 
